@@ -15,7 +15,7 @@ source:
   # has the following properties: repository, branch.
   properties:
     access_token_secret: github-token-emoji-race-emoji-race
-    branch: master
+    branch: mainline
     repository: https://github.com/efekarakus/emoji-race
 
 # The deployment section defines the order the pipeline will deploy
